@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LottoMiracle</string>
+    <string name="tvLotto">TextView</string>
+    <string name="btnCreate">생성</string>
 </resources>
